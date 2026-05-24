@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11811.120
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyOCR_Services", "EasyOCR_Services\EasyOCR_Services.csproj", "{219B12AF-7890-47C4-82A6-B6CB2AB54728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Channel_ObjectPool", "EasyOcr_Images_Pdfs\Channel_ObjectPool.csproj", "{3B761A1E-4C0F-1443-4CBA-1232D6C46183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219B12AF-7890-47C4-82A6-B6CB2AB54728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219B12AF-7890-47C4-82A6-B6CB2AB54728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219B12AF-7890-47C4-82A6-B6CB2AB54728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219B12AF-7890-47C4-82A6-B6CB2AB54728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B761A1E-4C0F-1443-4CBA-1232D6C46183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B761A1E-4C0F-1443-4CBA-1232D6C46183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B761A1E-4C0F-1443-4CBA-1232D6C46183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B761A1E-4C0F-1443-4CBA-1232D6C46183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09BDCEC-9019-4749-B87D-2A24504FD257}
+	EndGlobalSection
+EndGlobal

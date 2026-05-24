@@ -1,0 +1,14 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+**/.vs/
+*.whl
+*.pth
+*.csproj.user
+*.suo
+*.user
+*.log
+.env
+temp/*
